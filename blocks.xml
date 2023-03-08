@@ -1,0 +1,7 @@
+<palette>
+  <block tag="print" spec="print %0" code="System.print(~);" type="action" color="gray" returns="void">
+    <fields>
+      <text order="0"/>
+    </fields>
+  </block>
+</palette>

@@ -1,0 +1,6 @@
+name=Stwinchyl
+description=A test extension
+author=Dima4z
+website=http://www.discordapp.com/users/1034516917987328031
+version=0.1a
+compatibility=all
